@@ -1,10 +1,10 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
+  - Object 🙋 explained
+  - this 🙋 explained
+  - arrow function 🙋 explained
+  - async function 🙋 explained
   - call 🖐️ used
   - bind 🖐️ used
   - apply 🖐️ used
@@ -25,11 +25,11 @@
   - window 🖐️ used
   - getters and setters 🖐️ used
   - __proto__ 🖐️ used
-  - prototype 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
+  - prototype 🙋 explained
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🙋 explained
+  - ternary operator 🙋 explained
   - void 🖐️ used
   - yield 🖐️ used
   - await 🖐️ used
@@ -67,19 +67,19 @@
   - functional object 🙋 explained
 - Data structures
   - Array 🙋 explained
-  - mixin 
-  - extend
-  - typed arrays 🎓 known
+  - mixin 👂 heard
+  - extend 👂 heard
+  - typed arrays 🙋 explained
   - Map 🎓 known
   - Set 🎓 known
   - undefined 🎓 known
   - null 🙋 explained
   - Proxy 🎓 known
-  - weak collections
+  - weak collections 👂 heard
   - timers 🎓 known
-  - EventEmitter
-  - RegExp
-  - Date 🎓 known
+  - EventEmitter 👂 heard
+  - RegExp 🎓 known
+  - Date 🙋 explained
   - BigInt 🎓 known
 - Infrastructure
   - V8 🎓 known
