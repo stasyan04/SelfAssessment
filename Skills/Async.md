@@ -2,39 +2,39 @@
 
 - Theory
   - Event loop 🎓 known
-  - try..catch 🎓 known
+  - try..catch 🙋 explained
   - Non-blocking 🎓 known
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Async I/O 🎓 known
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports 👂 heard
+  - Event ports 👂 heard
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
   - Concurrent programming 👂 heard
   - Parallel programming 👂 heard
-  - Actor Model
-  - Thread 👂 heard
-  - Process
+  - Actor Model 👂 heard
+  - Thread 🖐️ used 
+  - Process 👂 heard
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first
-  - Thenable
+  - Callbacks 🙋 explained
+  - Callback-last-error-first 🖐️ used 
+  - Thenable 👂 heard
   - Promise 👂 heard
   - Async/await 🖐️ used 
-  - Future
+  - Future 👂 heard
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
   - Event 🖐️ used 
-  - Coroutine 👂 heard
-  - Goroutine
+  - Coroutine 🎓 known
+  - Goroutine 👂 heard
   - Signal
   - Stream
   - Chain of responsibility

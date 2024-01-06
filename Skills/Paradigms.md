@@ -4,11 +4,11 @@
   - Procedural programming 🎓 known
   - Imperative programming 🎓 known
   - Structured programming 🎓 known
-  - Non-structured programming 👂 heard
+  - Non-structured programming 🎓 known
   - Functional programming 🖐️ used
   - Prototype-based programming 🎓 known
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 👂 heard
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 🎓 known
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
   - Asyncronous programming 🎓 known
@@ -21,42 +21,42 @@
   - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
   - Async method 👂 heard
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
   - Field declarations 🖐️ used
   - Inheritance 🖐️ used
   - Parent class 🖐️ used
   - Polymorphism 🖐️ used
   - Abstract class 🖐️ used
   - Interface 🖐️ used
-  - Encapsulation 👂 heard
+  - Encapsulation 🙋 explained
   - Hidden class 👂 heard
   - Object form 👂 heard
   - instance 🖐️ used
-  - Introspection 👂 heard
+  - Introspection 🎓 known
   - Reflection 👂 heard
 - Patterns
   - Singleton 🙋 explained
   - Factory Method 🎓 known
-  - Abstract Factory 👂 heard
-  - Adapter 👂 heard
-  - Observer 👂 heard
+  - Abstract Factory 🎓 known
+  - Adapter 🎓 known
+  - Observer 🎓 known
   - Strategy 👂 heard
   - Facade 👂 heard
-  - Proxy 👂 heard
+  - Proxy 🎓 known
   - Chain of Responsibility
   - Command
   - Iterator 👂 heard
   - State
   - Bridge
   - Builder 👂 heard
-  - Prototype 👂 heard
+  - Prototype 🎓 known
   - Composite 👂 heard
   - Decorator 👂 heard
   - Flyweight

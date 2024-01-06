@@ -30,41 +30,41 @@
   - module 🎓 known
   - call stack 🎓 known
 - Functions
-  - signature 👂 heard
+  - signature 🙋 explained
   - argument 🙋 explained
   - parameter 🙋 explained
   - pure function 🎓 known
   - lambda expression 🖐️ used
   - side effects 🎓 known
-  - closure 👂 heard
-  - partial application 👂 heard
+  - closure 🙋 explained
+  - partial application 🎓 known
   - curry 🎓 known
   - higher order 🎓 known
   - recursion 🖐️ used
   - callback 🖐️ used
   - listener 🖐️ used
-  - compose 👂 heard
-  - pipe 👂 heard
+  - compose 🎓 known
+  - pipe 🎓 known
   - memoize 🎓 known
   - wrapper 🖐️ used
   - functor 👂 heard
   - monad 👂 heard
   - monoid 👂 heard
-  - generator 👂 heard
-  - coroutine 👂 heard
+  - generator 🎓 known
+  - coroutine 🎓 known
 - Data structures
   - array 🙋 explained
   - structure 🖐️ used
   - record 👂 heard
-  - enum 👂 heard
+  - enum 🎓 known
   - instance 🎓 known
   - object 🙋 explained
   - class 🙋 explained
   - collection 🖐️ used
   - set 🎓 known
   - hash table 🎓 known
-  - linked list 🎓 known
-  - doubly list 🎓 known
+  - linked list 🙋 explained
+  - doubly list 🙋 explained
   - unrolled list 👂 heard
   - circular list 🎓 known
   - queue 🙋 explained
@@ -82,7 +82,7 @@
   - transpiler 🙋 explained 
   - linter 🖐️ used
   - polyfill 👂 heard
-  - debugger 👂 heard
+  - debugger 🎓 known
   - garbage collection 👂 heard
   - refactoring 🙋 explained
   - code review 🙋 explained
@@ -91,11 +91,11 @@
   - algorithm 🙋 explained
   - magic numbers 🎓 known
   - hardcode 🙋 explained
-  - complexity🎓 known
+  - complexity 🎓 known
   - decomposition 🙋 explained
   - spaghetti 🎓 known
-  - silver bullet 👂 heard
-  - not invented here 👂 heard
+  - silver bullet 🎓 known
+  - not invented here 🎓 known
   - dead code 🎓 known
   - unreachable code 🎓 known
   - duplicate code 🎓 known
